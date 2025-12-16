@@ -243,7 +243,7 @@ Login dengan Username = admin dan Password = admin123
 <img src="gambar/11.png" width="500"/>
 
 #### 4. Log out
-<img src="gambar/2.png" width="500"/>
+<img src="https://s4.ezgif.com/tmp/ezgif-41a9cfa631113f0a.gif"/>
 
 ### F. Tugas Praktikum
 
