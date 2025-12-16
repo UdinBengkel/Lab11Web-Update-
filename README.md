@@ -226,6 +226,7 @@ exit;
 
 #### 2. Login
 Login dengan Username = admin dan Password = admin123
+
 <img src="gambar/4.png" width="500"/>
 <img src="gambar/5.png" width="500"/>
 
@@ -253,4 +254,5 @@ Login dengan Username = admin dan Password = admin123
 #### 2. Mengganti Password
 
 Mengganti Password dari "admin123" menjadi "admin456"
+
 <img src="gambar/13.png" width="500"/>
