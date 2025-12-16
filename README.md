@@ -163,7 +163,7 @@ if ($_POST) {
 </body>
 </html>
 ```
-<img src="gambar/2.png" width="500"/>
+<img src="gambar/3.png" width="500"/>
 
 #### 2. Log out
 ```php
@@ -218,23 +218,39 @@ exit;
 
 </div>
 ```
-<img src="gambar/3.png" width="500"/>
+<img src="gambar/2.png" width="500"/>
 
 ### E. Uji Coba
 #### 1. Akses Login
 <img src="gambar/3.png" width="500"/>
 
 #### 2. Login
-<img src="gambar/3.png" width="500"/>
+Login dengan Username = admin dan Password = admin123
+<img src="gambar/4.png" width="500"/>
+<img src="gambar/5.png" width="500"/>
 
 #### 3. CRUD
 ##### 1. Tambah
+<img src="gambar/6.png" width="500"/>
+<img src="gambar/7.png" width="500"/>
+
 ##### 2. Ubah
+<img src="gambar/8.png" width="500"/>
+<img src="gambar/9.png" width="500"/>
+
 ##### 3. Hapus
+<img src="gambar/10.png" width="500"/>
+<img src="gambar/11.png" width="500"/>
 
 #### 4. Log out
+<img src="gambar/2.png" width="500"/>
 
 ### F. Tugas Praktikum
 
 #### 1. Halaman Profil
+<img src="gambar/12.png" width="500"/>
+
 #### 2. Mengganti Password
+
+Mengganti Password dari "admin123" menjadi "admin456"
+<img src="gambar/13.png" width="500"/>
